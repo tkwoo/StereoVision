@@ -22,6 +22,7 @@
     <ProjectGuid>{CB1C6E90-EA37-4233-8B32-8B3F66DBEDDF}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>stereovision</RootNamespace>
+    <ProjectName>StereovisionforADAS</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
